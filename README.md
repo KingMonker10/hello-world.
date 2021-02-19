@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/KingMonker10/hello-world./edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+## Welcome to the Purple Heart website
+it is the twilight zone, americans sleep, europeans and africans eat lunch and asians and oceanics are in their afternoon shift
+You can use the URl (https://github.com/KingMonker10/hello-world./edit/main/README.md) to discuss and review the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
